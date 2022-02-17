@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<meta charset=<"UTF-8">
+<meta http-equiv="X-UA-compatible"content="IE=edge">
+<meta name="view Port"content="width=device-width, initial-scale=1.0">
+<title>Rowspan in HTML5</title>
+</head>
+<body>
+<table border ="5"cell spacing="0" cellpadding="1.5px">
+<th colspan="2">
+full name
+</th>
+
+<tr>
+<td>first Name</td>
+<td>last name</td>
+</tr>
+</table>
+</body>
+</html>
