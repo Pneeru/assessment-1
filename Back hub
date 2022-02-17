@@ -5,7 +5,7 @@
 Body {
 
 
-Background- colour:red
+Background- colour:red;
 }
 </head> 
  <body> 
